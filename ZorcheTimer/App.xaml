@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:ZorcheTimer"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="Retro">pack://application:,,,/Fonts/#Px437 IBM BIOS</FontFamily>
     </Application.Resources>
 </Application>
