@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZorcheTimer", "ZorcheTimer\ZorcheTimer.csproj", "{C75C084B-9589-4DF0-A46B-99B366422E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75C084B-9589-4DF0-A46B-99B366422E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75C084B-9589-4DF0-A46B-99B366422E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75C084B-9589-4DF0-A46B-99B366422E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75C084B-9589-4DF0-A46B-99B366422E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B15970-F28E-4A6C-9B4A-20543DBA2C6F}
+	EndGlobalSection
+EndGlobal
